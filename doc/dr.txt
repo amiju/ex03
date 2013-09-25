@@ -1,0 +1,14 @@
+ex03
+
+1/1
+
+olga.text -> olga.txt
+
+README.md ?
+
+.gitignore ?
+
+formatter le code
+
+vars pas utilises
+
